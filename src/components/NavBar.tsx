@@ -73,7 +73,7 @@ export default function NavBar() {
             <Image 
               width={150}
               height={150} 
-              src="/justName.png" 
+              src="/justNameW.webp" 
               alt="Hero Logo"
             />
             
@@ -141,7 +141,7 @@ export default function NavBar() {
               <Image 
                 width={100}
                 height={100} 
-                src="/ring.png" 
+                src="/ringW.webp" 
                 alt="Hero Logo"
               />
             </div>

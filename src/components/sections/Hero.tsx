@@ -24,7 +24,7 @@ export default function Hero() {
         {!isVideoLoaded && (
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-            style={{ backgroundImage: 'url("/lakePoster.png")' }}
+            style={{ backgroundImage: 'url("/lakePosterW.webp")' }}
           >
             {/* Loading indicator */}
             <div className="absolute bottom-4 right-4 flex items-center space-x-2 text-white/80 text-sm">

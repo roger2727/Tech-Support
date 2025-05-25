@@ -175,7 +175,7 @@ const ServicesSection = () => {
   const serviceCategories = [
     {
       name: "Staying Connected",
-      image: "/connected.jpg",
+      image: "/connectedW.webp",
       description: "Help with video calls, messaging, and keeping in touch with loved ones digitally.",
       services: [
         "FaceTime and Zoom setup and troubleshooting",
@@ -192,7 +192,7 @@ const ServicesSection = () => {
     },
     {
       name: "Health & Wellbeing",
-      image: "/health.jpg",
+      image: "/healthW.webp",
       description: "Access telehealth services and health resources from the comfort of your home.",
       services: [
         "Telehealth platform navigation and setup assistance",
@@ -209,7 +209,7 @@ const ServicesSection = () => {
     {
       name: "Everyday Assistance",
       description: "Navigate essential online services that make daily life easier.",
-      image: "/assistance.jpg",
+      image: "/assistanceW.webp",
       services: [
         "Online shopping and delivery services",
         "MyGov and Service NSW assistance",
@@ -230,7 +230,7 @@ const ServicesSection = () => {
     {
       name: "Leisure & Learning",
       description: "Discover entertainment options and preserve  memories digitally.",
-      image: "/tv.jpg",
+      image: "/tvW.webp",
       services: [
         "Streaming services setup (Netflix, ABC iView)",
         "Digital photo organization and sharing",

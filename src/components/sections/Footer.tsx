@@ -15,7 +15,7 @@ const Footer = () => {
             <Image 
               width={150}
               height={150} 
-              src="/justName.png" 
+              src="/justNameW.webp" 
               alt="TechForSeniors Logo"
             />
             <p className="text-slate-300 mt-2">

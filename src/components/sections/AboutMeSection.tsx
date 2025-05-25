@@ -21,7 +21,7 @@ const AboutMeSection = () => {
               <div className="absolute inset-0 m-auto w-11/12 md:w-4/5 h-11/12 md:h-4/5 bg-blue-500 rounded-full z-10 opacity-10"></div>
               <div className="relative z-20 p-4">
                 <Image 
-                  src="/me.png" 
+                  src="/meW.webp" 
                   alt="Mitch - Tech Support Specialist" 
                   className="w-full h-auto mx-auto max-w-xs md:max-w-full"
                   width={500}
