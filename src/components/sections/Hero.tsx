@@ -47,7 +47,7 @@ export default function Hero() {
           onLoadedData={() => setIsVideoLoaded(true)}
           onCanPlay={() => setIsVideoLoaded(true)}
         >
-          <source src="/lake.mp4" type="video/mp4" />
+          <source src="/lakeCompressed.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
         
